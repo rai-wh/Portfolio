@@ -27,8 +27,8 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src={profilepic}
-                    alt="Avatar placeholder"
+                    // src={profilepic}
+                    alt="idk what to put here "
                   />
                   <Icon
                     icon={angularIcon}
